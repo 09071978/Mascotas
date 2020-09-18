@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout< nombre de componente  = " ProjectCodeStyleConfiguration " >
+< code_scheme  name = " Proyecto "  versión = " 173 " >
+    < codeStyleSettings  language = " XML " >
+        < indentOptions >
+            < option  name = " CONTINUATION_INDENT_SIZE "  value = " 4 " />
+        </ indentOptions >
+        < arreglo >
+            < reglas >
+                < sección >
+                    < regla >
+                        < partido >
+                            < Y >
+                                < NAME > xmlns: android </ NAME >
+                                < XML_ATTRIBUTE />
+                                < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                            </ Y >
+                        </ partido >
+                    </ regla >
+                </ sección >
+                < sección >
+                    < regla >
+                        < partido >
+                            < Y >
+                                < NOMBRE > xmlns:. * </ NOMBRE >
+                                < XML_ATTRIBUTE />
+                                < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                            </ Y >
+                        </ partido >
+                        < pedido > BY_NAME </ pedido >
+                    </ regla >
+                </ sección >
+                < sección >
+                    < regla >
+                        < partido >
+                            < Y >
+                                < NOMBRE >. *: Id </ NOMBRE >
+                                < XML_ATTRIBUTE />
+                                < XML_NAMESPACE > http://schemas.android.com/apk/res/android </ XML_NAMESPACE >
+                            </ Y >
+                        </ partido >
+                    </ regla >
+                </ sección >
+                < sección >
+                    < regla >
+                        < partido >
+                            < Y >
+                                < NOMBRE >. *: Nombre </ NOMBRE >
+                                < XML_ATTRIBUTE />
+                                < XML_NAMESPACE > http://schemas.android.com/apk/res/android </ XML_NAMESPACE >
+                            </ Y >
+                        </ partido >
+                    </ regla >
+                </ sección >
+                < sección >
+                    < regla >
+                        < partido >
+                            < Y >
+                                < NAME > nombre </ NAME >
+                                < XML_ATTRIBUTE />
+                                < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                            </ Y >
+                        </ partido >
+                    </ regla >
+                </ sección >
+                < sección >
+                    < regla >
+                        < partido >
+                            < Y >
+                                < NAME > estilo </ NAME >
+                                < XML_ATTRIBUTE />
+                                < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                            </ Y >
+                        </ partido >
+                    </ regla >
+                </ sección >
+                < sección >
+                    < regla >
+                        < partido >
+                            < Y >
+                                < NOMBRE >. * </ NOMBRE >
+                                < XML_ATTRIBUTE />
+                                < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                            </ Y >
+                        </ partido >
+                        < pedido > BY_NAME </ pedido >
+                    </ regla >
+                </ sección >
+                < sección >
+                    < regla >
+                        < partido >
+                            < Y >
+                                < NOMBRE >. * </ NOMBRE >
+                                < XML_ATTRIBUTE />
+                                < XML_NAMESPACE > http://schemas.android.com/apk/res/android </ XML_NAMESPACE >
+                            </ Y >
+                        </ partido >
+                        < pedido > ANDROID_ATTRIBUTE_ORDER </ pedido >
+                    </ regla >
+                </ sección >
+                < sección >
+                    < regla >
+                        < partido >
+                            < Y >
+                                < NOMBRE >. * </ NOMBRE >
+                                < XML_ATTRIBUTE />
+                                < XML_NAMESPACE >. * </ XML_NAMESPACE >
+                            </ Y >
+                        </ partido >
+                        < pedido > BY_NAME </ pedido >
+                    </ regla >
+                </ sección >
+            </ reglas >
+        </ arreglo >
+    </ codeStyleSettings >
+</ code_scheme >
+</ componente >>
